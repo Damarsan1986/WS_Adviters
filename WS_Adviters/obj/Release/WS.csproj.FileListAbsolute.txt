@@ -1,0 +1,8 @@
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\bin\WS_Adviters.dll.config
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\bin\WS_Adviters.dll
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\bin\WS_Adviters.pdb
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\obj\Release\WS_Adviters.dll
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\obj\Release\WS_Adviters.pdb
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\bin\Newtonsoft.Json.dll
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\bin\Newtonsoft.Json.xml
+C:\Users\Agus\Documents\Visual Studio 2013\Projects\WS_Adviters\WS_Adviters\obj\Release\WS.csprojResolveAssemblyReference.cache
